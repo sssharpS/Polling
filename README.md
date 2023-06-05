@@ -29,7 +29,7 @@ These instructions will get you a copy of the project up and running on your loc
 Clone the project
 
 ```bash
-  git clone https://github.com/Debajyoti-Shit/Polling-System-API
+  git clone https://github.com/sssharpS/Polling.git
 ```
 
 Install dependencies
@@ -101,5 +101,5 @@ This code follows MVC pattern and hence everything is differentiated and well ma
 
 ## Authors
 
-- [Debajyoti Shit](https://github.com/Debajyoti-Shit/)
+- [Shubham Gupta] https://github.com/sssharpS/
 
