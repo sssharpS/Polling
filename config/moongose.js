@@ -1,6 +1,5 @@
 // require the library
 const mongoose = require("mongoose");
-// const db_url ="mongodb+srv://debajyotishit3:Deba16@cluster-polling-api.nawjv52.mongodb.net/?retryWrites=true&w=majority";
 const db_url="mongodb://127.0.0.1:27017/data";
 
 // connecting to the database
